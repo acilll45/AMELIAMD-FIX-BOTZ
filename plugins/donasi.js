@@ -8,16 +8,16 @@ let who = m.mentionedJid && m.mentionedJid[0] ? m.mentionedJid[0] : m.fromMe ? c
 let Poto = fs.readFileSync('./media/menu.jpg')
 let tek = `▷ ᴅᴏɴᴀsɪ ʙɪsᴀ ᴍᴇʟᴀʟᴜɪ ◁
     「 Donasi • Pulsa 」
-▪ *Telkomsel:* [0822 1472 9677]
-▪ *Axis:* [0838 6372 7401]
+▪ *Smartfren:* [088225488682]
+▪ *XL:* [0838 6372 7401]
 
     「 Donasi • Non Pulsa 」
-▪ *Dana:* [0838 6373 7401]
-▫ *Gopay:* [-]
-▪ *Ovo:* [0838 6372 7401]
+▪ *Dana:* [088225488682]
+▫ *Gopay:* [088225488682]
+▪ *Ovo:* [-]
 
 Kalau Mau Pake Qr Bisa ke contact Owner kak☺️
-wa.me/6283863727401
+wa.me/6283838757324
 
 *sᴇᴍᴏɢᴀ ᴀɴᴅᴀ ᴅɪ ʙᴇʀɪᴋᴀɴ ᴋᴇᴍᴜᴅᴀʜᴀɴ ʀᴇᴢᴇᴋɪ ᴅᴀɴ ᴅɪ ʟɪᴘᴀᴛ ɢᴀɴᴅᴀᴋᴀɴ ʀᴇᴢᴇᴋɪ ᴀɴᴅᴀ*`
 

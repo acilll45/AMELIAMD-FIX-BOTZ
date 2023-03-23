@@ -18,19 +18,19 @@ let rules = `➯ *Tɪᴅᴀᴋ Sᴘᴀᴍ Bᴏᴛ*
 
 
 • *Kebijakan Privasi:*
-1. ZykoBotz-MD tidak akan merekam data riwayat chat user.
-2. ZykoBotz-MD tidak akan menyebarkan nomor users.
-3. ZykoBotz-MD tidak akan menyimpan media yang dikirimkan oleh users.
-4. ZykoBotz-MD tidak akan menyalah gunakan data data users.
-5. Owner ZykoBotz-MD berhak melihat data riwayat chat users.
-6. Owner ZykoBotz-MD berhak melihat status users.
-7. Owner ZykoBotz-MD dapat melihat riwayat chat, dan media yang dikirimkan users.
+1. YaeMikoBotz-MD tidak akan merekam data riwayat chat user.
+2. YaeMikoBotz-MD tidak akan menyebarkan nomor users.
+3. YaeMikoBotz-MD tidak akan menyimpan media yang dikirimkan oleh users.
+4. YaeMikoBotz-MD tidak akan menyalah gunakan data data users.
+5. Owner YaeMikoBotz-MD berhak melihat data riwayat chat users.
+6. Owner YaeMikoBotz-MD berhak melihat status users.
+7. Owner YaeMikoBotz-MD dapat melihat riwayat chat, dan media yang dikirimkan users.
 
 • Jika ada bug/eror di website kami saya mohon untuk Report nya, tanpa biaya dan aman
 
-_Cara penggunaan ZykoBotz-MD Agar terhindar dari Suspand_
+_Cara penggunaan YaeMikoBotz-MD Agar terhindar dari Suspand_
 
-• *Peraturan ZykoBotz-MD:*
+• *Peraturan YaeMikoBotz-MD:*
 1. Users dilarang menelpon maupun memvideo call nomor bot.
 2. Users dilarang mengirimkan berbagai bug, virtex, dll ke nomor bot.
 3. Users diharap tidak melakukan spam dalam penggunaan bot.
@@ -40,20 +40,20 @@ _Cara penggunaan ZykoBotz-MD Agar terhindar dari Suspand_
 • *Note:*
 1. Jika ada yang menjual/beli/sewa bot atas nomor ini, harap segera hubungi owner!
 2. Jika ingin donasi bisa langsung aja ya social payment Dana 
-3. jika ingin membeli scrip bot Whatsapp bisa langsung Hubungi ke no Whatsapp:wa.me/62 82127487538
+3. jika ingin membeli scrip bot Whatsapp bisa langsung Hubungi ke no Whatsapp:wa.me/6283838757324
 3. Ketik .sewa Jika Ingin SewaBot 
 
 •Agar terhindar dari Suspand/Ban kalian bisa membaca juga di Peraturan kami.
 
 •Perlu kalian tahu bahwa kami menjaga Privasi dari data-data anda!
 
-• *Syarat Ketentuan ZykoBotz-MD:*
+• *Syarat Ketentuan YaeMikoBotz-MD:*
 
-1. ZykoBotz-MD akan keluar dari group jika ada salah satu member melanggar peraturan.
-2. ZykoBotz-MD dapat mem-ban users secara sepihak terlepas dari users salah atau tidak.
-3. ZykoBotz-MD tidak akan bertanggungjawab atas apapun yang users lakukan terhadap fitur bot.
-4. ZykoBotz-MD akan memberlakukan hukuman: block atau ban terhadap users yang melanggar peraturan.
-5. ZykoBotz-MD bertanggung jawab atas kesalahan fatal dalam programing maupun owner.
+1. YaeMikoBotz-MD akan keluar dari group jika ada salah satu member melanggar peraturan.
+2. YaeMikoBotz-MD dapat mem-ban users secara sepihak terlepas dari users salah atau tidak.
+3. YaeMikoBotz-MD tidak akan bertanggungjawab atas apapun yang users lakukan terhadap fitur bot.
+4. YaeMikoBotz-MD akan memberlakukan hukuman: block atau ban terhadap users yang melanggar peraturan.
+5. YaeMikoBotz-MD bertanggung jawab atas kesalahan fatal dalam programing maupun owner.
 ❏┳━━◩
 ┍┛
 ┆⟥⟤ ➠ ${global.bottime}

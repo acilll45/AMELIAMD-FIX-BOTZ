@@ -18,13 +18,13 @@ await conn.sendButtonDoc(m.chat, cap, botdate, 'SewaBot', '.sewa', fkontak, {
 			contextInfo: {
 				forwardingScore: fsizedoc,
 				externalAdReply: {
-                    body: '© Amelia',
+                    body: '© 𝗬𝗮𝗲𝗺𝗶𝗸𝗼',
     containsAutoReply: true,
     mediaType: 1,
     mediaUrl: hwaifu.getRandom(), 
     renderLargerThumbnail: true,
     showAdAttribution: true,
-    sourceId: '© PutraModz',
+    sourceId: '© 𝗔𝗰𝗶𝗹𝗹',
     sourceType: 'PDF',
     previewType: 'PDF',
     sourceUrl: sgc,
