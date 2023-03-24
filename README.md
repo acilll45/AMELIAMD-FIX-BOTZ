@@ -26,7 +26,7 @@
 <b>Umur:</b> 17 YearsOld
 </li>
 <li>
-<b>Skils:</b> Html,Js,C++
+<b>Skils:</b> Html,Js,C++,Lua,Andlua,PHP
 </li>
 <li>
 <b>Gender:</b> Laki-Laki
